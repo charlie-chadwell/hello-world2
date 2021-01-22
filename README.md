@@ -1,2 +1,3 @@
 # hello-world2
-learning git file
+
+Some words and stuff go here, and then some things happen. Sometimes it do be like that. 
